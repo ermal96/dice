@@ -1,1 +1,1 @@
-# dice
+# roll the dice game
